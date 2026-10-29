@@ -124,7 +124,7 @@ Write a working solution that satisfies the requirements.
 
 ### Step 2: Create Test Cases
 
-Write at least five tests that validate:
+Check the tests written and add if you need. Write tests that validate:
 - Normal input
 - Edge cases
 - Invalid input (if applicable)
@@ -166,7 +166,7 @@ Examples:
 
 ## Interview Discussion Questions
 
-After solving each problem, ask students:
+After solving each problem, ask yourself:
 
 - How does your solution work?
 - What is the time complexity?
