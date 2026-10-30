@@ -1,3 +1,4 @@
+### Assignment Status: ![](https://github.com/theacademy/Java-Difficult-Method-Exercises/actions/workflows/java.yaml/badge.svg?branch=main)
 # Java Interview Practice Difficult-Methods Lab
 
 ## Overview
